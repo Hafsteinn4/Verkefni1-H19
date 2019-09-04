@@ -1,0 +1,60 @@
+h1 { 
+    text-align: center;
+    font-family: arial;
+}
+
+h2 {
+    color:#A70000;
+    margin-left: 20px;
+}
+
+div.a {
+    margin-left: 80px;
+
+        
+}
+
+div.b {
+    border-style: solid;
+    border-width: medium;
+    border-color: blue
+}
+
+div.c {
+    margin-left: 50px;
+}
+
+
+div.d {
+    text-align: center;
+}
+
+
+div.e {
+    margin-left: 50px;
+    color: blue;
+    font-size: 27px
+}
+
+
+.vinstri {
+    text-align: center;
+    position: absolute;
+    left: 27%;
+}
+
+
+.haegri {
+    text-align: center;
+    position: absolute;
+    right: 27%;
+}
+
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
